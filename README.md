@@ -1,6 +1,6 @@
 # Task6_Flutter
 
-A new Flutter project, made as a part of school assignment. Very basic app with simple forms and another page to show the details.
+A new Flutter project, made as a part of school assignment. Very basic app with simple forms and another page to show the details. (To be done soon...)
 
 ## Getting Started
 
